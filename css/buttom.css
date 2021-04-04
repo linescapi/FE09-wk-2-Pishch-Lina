@@ -1,0 +1,65 @@
+.buttom {
+  background-color: #3A3E64;
+}
+.buttom-row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+}
+.buttom-container {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.buttom-item {
+  margin: 0px 15px;
+  margin-top: 20px;
+}
+.location-item {
+  max-width: 170px;
+  margin-right: 0%;
+  margin-left: 13.5%;
+}
+.about-item {
+  max-width: 300px;
+}
+.buttom-title {
+  margin: auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.content {
+  margin: auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+}
+.row-content {
+  margin-top: 15px;
+}
+.links-buttom {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.b-item {
+  margin: 0 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #C6CACC;
+  box-sizing: border-box;
+}

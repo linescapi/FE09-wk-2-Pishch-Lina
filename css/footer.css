@@ -1,0 +1,40 @@
+.active-footer {
+  background-color: #313454;
+}
+.footer-container {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  margin: auto;
+}
+.footer-text_top {
+  text-align: center;
+  margin: auto;
+}
+.footer-copyright{
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #808080;
+}
+.footer-buttom {
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #808080;
+}
+.owner-name {
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.fa-heart {
+  color: #E84545;
+}
+

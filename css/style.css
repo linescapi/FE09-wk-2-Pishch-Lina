@@ -1,0 +1,29 @@
+@import url("../css/active.css");
+@import url("../css/items.css");
+@import url("../css/team.css");
+@import url("../css/download.css");
+@import url("../css/buttom.css");
+@import url("../css/header.css");
+@import url("../css/footer.css");
+@import url("../css/portfolio.css");
+@import url("../css/slide.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  max-width: 1170px;
+  margin: auto;
+}
+.filter {
+  width: 100%;
+  height: 100%;
+  background: rgb(43, 46, 74, 0.85);
+  padding-bottom: 50px;
+}
