@@ -11,10 +11,10 @@
   text-align: left;
   margin: 15px;
 }
-
 .t-photo {
   max-width: 215px;
   max-height: 215px;
+  border-radius: 10px;
 }
 .personal-name {
   margin-top: 15px;
@@ -71,10 +71,14 @@
   border: 1px solid #C6CACC;
   box-sizing: border-box;
 }
-i {
+.least-item:hover {
+  border-color: khaki;
+}
+#team-icon {
   color: #C6CACC;
   transition: 0.3s ease;
 }
-i:hover {
+#team-icon:hover {
   transform: scale(1.8, 1.8);
+  color: khaki;
 }

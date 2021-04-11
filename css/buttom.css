@@ -53,6 +53,14 @@
   flex-direction: row;
   flex-wrap: wrap;
 }
+#buttom-icon {
+  color: #C6CACC;
+  transition: 0.3s ease;
+}
+#buttom-icon:hover {
+  transform: scale(1.8, 1.8);
+  color: khaki;
+}
 .b-item {
   margin: 0 2px;
   display: flex;
@@ -62,4 +70,7 @@
   height: 40px;
   border: 1px solid #C6CACC;
   box-sizing: border-box;
+}
+.b-item:hover {
+  border-color: khaki;
 }

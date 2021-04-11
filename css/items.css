@@ -14,15 +14,14 @@
   margin-top: 55px;
   max-width: 310px;
 }
-img {
-  margin: auto;
-  max-width: 55px;
-  max-height: 55px;
-}
 .item-img {
   margin: auto;
   width: 55px;
   height: 55px;
+}
+#active-icon {
+  font-size: 50px;
+  color: #E84545;
 }
 .item-row-title {
   margin: auto;
