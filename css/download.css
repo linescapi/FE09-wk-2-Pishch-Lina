@@ -46,3 +46,18 @@
   color: #fff;
   text-transform: uppercase;
 }
+@media (max-width: 1106px) {
+  .download-container {
+    padding-bottom: 80px !important;
+  }
+}
+@media (max-width: 616px) {
+  .download-container {
+    max-width: 554px !important;
+    padding-top: 35px !important;
+  }
+  .title-text {
+    font-size: 20px;
+    line-height: 22px;
+  }
+}

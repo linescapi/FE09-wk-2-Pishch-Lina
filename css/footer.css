@@ -42,4 +42,21 @@
   transform: scale(1.4, 1.4);
   color: #EB6E8C;
 }
+@media (max-width: 323px) {
+  .footer-copyright{
+    font-size: 10px;
+    line-height: 12px;
+  }
+  .footer-buttom {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .owner-name {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #with-love {
+    font-size: 10px;
+  }
+}
 

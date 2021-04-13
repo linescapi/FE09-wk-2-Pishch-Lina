@@ -68,3 +68,35 @@
   border-bottom: 1px solid #fff;
   color: #fff;
 }
+@media (max-width: 865px) {
+  .item-link {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .header-nav_item {
+    margin: 0 20px 0 20px !important;
+  }
+}
+@media (max-width: 717px) {
+  .item-link {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  .header-nav_item {
+    margin: 0 15px 0 15px !important;
+  }
+}
+@media (max-width: 600px) {
+  .item-link {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  .header-nav_item {
+    margin: 0 10px 0 10px !important;
+  }
+}
+@media (max-width: 531px) {
+  .header-nav {
+    display: none;
+  }
+}

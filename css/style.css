@@ -6,7 +6,7 @@
 @import url("../css/header.css");
 @import url("../css/footer.css");
 @import url("../css/portfolio.css");
-@import url("../css/slide.css");
+@import url("../css/slider.css");
 
 * {
   margin: 0;
@@ -26,4 +26,12 @@
   height: 100%;
   background: rgb(43, 46, 74, 0.85);
   padding-bottom: 50px;
+}
+@media (max-width: 1106px) {
+  .filter {
+    padding-bottom: 35px;
+  }
+  .container {
+    padding-bottom: 35px;
+  }
 }
